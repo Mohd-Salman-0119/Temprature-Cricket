@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Cricket</string>
+    <string name="todo">TODO</string>
+    <string name="info">Did you know you can determine the temperature
+        outsides by counting the number of chirps the
+        cricket makes? Just count the number of chirps
+        one  makes in 25 seconds and place that number
+        in the box below.</string>
+</resources>
